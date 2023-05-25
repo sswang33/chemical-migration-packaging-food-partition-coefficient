@@ -5,6 +5,8 @@ Food contact chemicals (FCCs) can migrate from packaging materials to food posin
 Chemical migration; Food contact chemical; Ensemble learning; Quantitative structureactivity
 relationship;
 
+[![DOI](https://zenodo.org/badge/436809536.svg)](https://zenodo.org/badge/latestdoi/436809536)
+
 Data were obtained from a previous study (Huang and Jolliet, 2019)
 
 Huang, L., Jolliet, O., 2019. A combined quantitative property-property relationship (QPPR) for

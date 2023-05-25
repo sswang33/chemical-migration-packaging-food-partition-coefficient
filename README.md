@@ -6,6 +6,7 @@ Chemical migration; Food contact chemical; Ensemble learning; Quantitative struc
 relationship;
 
 Data were obtained from a previous study (Huang and Jolliet, 2019)
+
 Huang, L., Jolliet, O., 2019. A combined quantitative property-property relationship (QPPR) for
 estimating packaging-food and solid material-water partition coefficients of organic compounds. Sci. Total Environ. 658, 493–500.
 https://doi.org/10.1016/j.scitotenv.2018.12.062
